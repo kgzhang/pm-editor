@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="555d0f9e-641f-40d4-836a-34014637df47" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bWjUf7LmOJyfaUcTZNSaqZ8ojI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="490" key="#ESLint" timestamp="1588755820730">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="423" y="490" key="#ESLint/0.0.1920.1200@0.0.1920.1200" timestamp="1588755820730" />
+    <state x="303" y="405" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588755907166">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="303" y="405" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1200@0.0.1920.1200" timestamp="1588755907166" />
+    <state x="289" y="244" width="1331" height="778" key="SettingsEditor" timestamp="1588766065916">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="289" y="244" width="1331" height="778" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1588766065916" />
+    <state x="232" y="271" width="670" height="676" key="search.everywhere.popup" timestamp="1588755828818">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="232" y="271" width="670" height="676" key="search.everywhere.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1588755828818" />
+  </component>
+</project>
